@@ -1,2 +1,0 @@
-# TrendingGifsWithGiphy
-Created with CodeSandbox
